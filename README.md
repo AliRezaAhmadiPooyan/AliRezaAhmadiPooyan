@@ -2,7 +2,7 @@
 ### about
 ### language
 
-![alt - Github](Java.png)
+<img src="Java.png" wdith="50" height="50">
 
 ### Most used languages
 
