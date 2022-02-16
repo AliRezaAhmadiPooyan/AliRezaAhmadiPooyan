@@ -2,7 +2,7 @@
 ### about
 ### language
 
-<img src="Java.png" wdith="50" height="50">
+<img src="Java.png" wdith="65" height="65">
 
 ### Most used languages
 
