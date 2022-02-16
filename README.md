@@ -2,7 +2,7 @@
 ### about
 ### language
 
-<img src="Java" wdith="65" height="65">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 
 ### Most used languages
 
