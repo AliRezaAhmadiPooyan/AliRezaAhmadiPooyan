@@ -4,7 +4,9 @@
 
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"><\p>
+<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
+ 
+<\p>
  
 ### Most used languages
 
