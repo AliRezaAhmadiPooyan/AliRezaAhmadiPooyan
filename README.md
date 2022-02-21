@@ -7,8 +7,9 @@
  </p>
  
 ### Languages and Tools:
+
 <p align="left">
-<a href="https" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
   </a></p>
  
  ### My Github stats
