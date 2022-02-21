@@ -1,11 +1,15 @@
 # Hi I'm AliReza Ahmadi Pooyan 😀
 
-### Languages and Tools:
+## about me
 
-<a herf="https://developer.android.com/studio" target="_blank"> <p align="left">
- <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
+<p>
+ I started programming in 2022. I like to learn new things
  </p>
-  </a>
+ 
+### Languages and Tools:
+<p align="left">
+<a herf="https://developer.android.com/studio"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png">
+  </a></p>
  
  ### My Github stats
  
